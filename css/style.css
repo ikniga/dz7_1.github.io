@@ -10,19 +10,6 @@ body {
     text-align: left;
 }
 
-.en-markup-crop-options {
-    top: 18px;
-    left: 50%;
-    margin-left: -100px;
-    width: 200px !important;
-    border: 2px rgba(255, 255, 255, .38) solid;
-    border-radius: 4px;
-}
-
-.en-markup-crop-options div div:first-of-type {
-    margin-left: 0px;
-}
-
 .wrapper {
     width: 960px;
     background-image: url(./img/header-bg.png);
