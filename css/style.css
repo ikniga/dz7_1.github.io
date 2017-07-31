@@ -157,7 +157,9 @@ footer {
     background: #DDDDDD;
     height: 90px;
 }
-
+.nav_name {
+    margin-top: 40px;
+}
 footer p {
     margin: 0;
     padding: 10px 0;
