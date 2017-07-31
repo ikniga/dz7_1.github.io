@@ -129,6 +129,28 @@ aside ul li a:hover {
     color: #000;
     text-decoration: underline;
 }
+aside nav {
+    margin: 0px;
+    padding-left: 20px;
+    line-height: 150%;
+}
+
+aside nav a {
+    margin: 10px 0;
+}
+
+nav a {
+    display: block;
+    color: #000;
+    font-size: 13px;
+    text-decoration: none;
+}
+
+nav a:hover {
+    color: #000;
+    text-decoration: underline;
+}
+
 
 footer {
     padding: 0 10px 0 20px;
